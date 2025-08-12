@@ -31,3 +31,8 @@ td{
 #t-image{
 	text-align:center;
 }
+table.middle th,
+table.middle td {
+  border: 1px inset rgb(0, 0, 0);
+  padding: 0.6rem 0.8rem;
+}
